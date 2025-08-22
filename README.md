@@ -24,7 +24,7 @@ Software Engineer especializado en backend y automatización, con experiencia en
 ## 🎓 Certificaciones  
 - **OSCP (Offensive Security Certified Professional)** – 321 horas  
 - **Pentesting Web: Prácticas de un Ethical Hacker Profesional** – 38.5 horas  
-- **MongoDB: Aprende desde cero a experto** – 33 horas  
+- **MongoDB: De cero a experto** – 33 horas  
 - **Angular: De cero a experto – Edición 2025** – 33.5 horas  
 - **Microsoft Azure Fundamentals (AZ-900)** – 38 horas  
 - **Git + GitHub: Sistema de control de versiones** – 32 horas
