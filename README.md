@@ -4,16 +4,16 @@ Software Engineer especializado en backend y automatización, con experiencia en
 ---
 
 ## 🧠 Perfil profesional  
-- Más de 6 años desarrollando soluciones backend y frontend para sectores como minería, justicia y gestión documental.  
-- Precisión quirúrgica en integración visual, validación fiscal y control administrativo.  
-- Enfoque en reproducibilidad, semántica institucional y documentación clara.  
-- Experiencia en integración con SAP, SUNAT, Alfresco y bases oficiales como Infogob, OFAC y ONU.
+- Más de 6 años desarrollando soluciones backend y frontend para sectores como minería, justicia y gestión institucional.
+- Precisión técnica en validación fiscal, control administrativo y persistencia visual con semántica corporativa.
+- Experiencia en arquitecturas modulares, automatización avanzada y ecosistemas SAP en entornos empresariales.
+- Enfoque estratégico en confiabilidad operativa, escalabilidad técnica y fidelidad institucional.
 
 ---
 
 ## 🛠 Tecnologías clave  
-- **Backend:** Java (Spring Boot, JSP, Servlets), Node.js, Python (FastAPI, Pydantic)  
-- **Frontend:** Angular v20, PrimeNG, SCSS institucional, layouts responsivos  
+- **Backend:** Java (Spring Boot, Quarkus, Servlets), Python (FastAPI, Pydantic) C# (ASP.NET Core)
+- **Frontend:** Angular, PrimeNG, SCSS institucional, layouts responsivos.  
 - **Bases de datos:** PostgreSQL, SqlServer, Oracle, MongoDB  
 - **Automatización:** JavaMail, Openpyxl, Bash, PowerShell  
 - **Infraestructura:** Docker, Linux, VirtualBox  
@@ -23,11 +23,11 @@ Software Engineer especializado en backend y automatización, con experiencia en
 
 ## 🎓 Certificaciones  
 - **OSCP (Offensive Security Certified Professional)** – 321 horas  
-- **Pentesting Web: Prácticas de un Ethical Hacker Profesional** – 18.5 horas  
-- **MongoDB: Aprende desde cero a experto** – 11 horas  
+- **Pentesting Web: Prácticas de un Ethical Hacker Profesional** – 38.5 horas  
+- **MongoDB: Aprende desde cero a experto** – 33 horas  
 - **Angular: De cero a experto – Edición 2025** – 33.5 horas  
-- **Microsoft Azure Fundamentals (AZ-900)** – 8 horas  
-- **Git + GitHub: Sistema de control de versiones** – 12 horas
+- **Microsoft Azure Fundamentals (AZ-900)** – 38 horas  
+- **Git + GitHub: Sistema de control de versiones** – 32 horas
 
 ---
 
