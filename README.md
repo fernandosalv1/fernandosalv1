@@ -1,5 +1,5 @@
 # 👋 Hola, soy Fernando Salvi  
-Desarrollador de Software backend especializado en integración institucional, automatización avanzada y trazabilidad documental en entornos corporativos.
+Desarrollador de Software backend especializado en integración institucional, automatización avanzada y trazabilidad documental en entornos corporativos. Trabajo con tecnologías libres y privadas, estructuras modulares y procesos automatizados orientados a control, confiabilidad y mejora constante.
 
 ---
 
