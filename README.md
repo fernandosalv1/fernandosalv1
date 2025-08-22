@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @FernandoSalaz
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning IoT.
+# 👋 Hola, soy Fernando Salvi
 
-<!---
-FernandoSalaz/FernandoSalaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Desarrollador apasionado por la terminal, la automatización y la ingeniería social.
+
+## 🧰 Tecnologías favoritas
+- 💻 Terminales modernas: Tabby, tmux
+- 🐍 Python para automatización y pentesting
+- ⚡ PowerShell para scripts rápidos
+- 🛠️ Herramientas ofensivas: SET, AirDroidPwner
+
+## 📦 Repositorios destacados
+- `AirDroidPwner`: Auditoría remota vía AirDroid
+- `code-snippets`: Fragmentos útiles para automatización
+- `tabby`: Terminal moderna con soporte para plugins
+
+## 📈 Actividad reciente
+Aunque mi actividad pública es limitada, mantengo proyectos privados y colaboraciones en curso.
+
+## 📫 Contacto
+Puedes encontrarme en GitHub o dejarme un mensaje por [LinkedIn](https://www.linkedin.com/in/fernandosalv1/)
